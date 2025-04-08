@@ -27,3 +27,48 @@ Criar uma ferramenta de **inteligência competitiva baseada em dados**, capaz de
 - React Router DOM
 
 
+
+## ⚙️ Como Rodar Localmente
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/PKpacheco/mba_puc_project.git
+cd mba_puc_project
+```
+
+### 2. Backend
+```bash
+cd backend
+python -m venv venv
+venv\Scripts\activate  # activate virtual env
+pip install -r requirements.txt
+python app.py
+```
+### 3. Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### Acesse: http://localhost:3000
+
+## ✅ Funcionalidades
+Dashboard com análise de sentimento, média de preços e tendências
+Visualização de devoluções por produto nos últimos 10 dias
+Cadastro de produtos com tags e visualização por ID
+Layout moderno com navegação por menu lateral
+
+
+## 📚 Base Teórica
+Este projeto está baseado no TCC:
+
+### "Inteligência Competitiva Baseada em Dados: Aplicação de Machine Learning na Análise de Mercado"
+📍 PUCRS – MBA em Tecnologia para Negócios: AI, Data Science e Big Data
+
+
+👩‍💻 Autoria
+Paola Katherine
+Desenvolvedora de software
+🔗 GitHub: @pkpacheco
