@@ -1,6 +1,6 @@
 # 🚀 Insight4You – Plataforma de Inteligência Competitiva Baseada em Dados
 
-Video [Clique Aqui](https://streamable.com/24m9q4))
+Video [Clique Aqui](https://streamable.com/24m9q4)
 
 Insight4You é um sistema web desenvolvido como parte do Trabalho de Conclusão do MBA em Tecnologia para Negócios: AI, Data Science e Big Data (PUC-RS). A aplicação permite que empresas tomem decisões mais estratégicas com base em dados reais de mercado, utilizando técnicas de **web scraping**, **machine learning** e **visualização de dados**.
 
